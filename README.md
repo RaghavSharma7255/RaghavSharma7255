@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m a Computer Engineering student with a strong foundation in technology. While I’m early in my career, I have gained valuable experience through hands-on projects where I’ve applied a range of technologies. I’m passionate about coding, hardware, and continuously learning to improve my skills and stay up to date with emerging technologies.
 ## 👨‍💻 Areas of Expertise:
-- **Software Development**: I have worked with **Java**, **Python**, **C**, and **Linux C** to develop various applications.
+- **Software Development**: I have worked with **Java**, **Python**, **C** to develop various applications.
 - **Web Development**: I have experience with **HTML**, **CSS**, and **JavaScript** frameworks.
 - **Embedded Systems & IoT**: I have worked with **Raspberry Pi 4**, **Raspberry Pi Pico 2040**, **Arduino**, and **KiCad** for **PCB design** and **hardware integration**.
 - **Machine Learning & AI**: Created a project using **Raspberry Pi** with **Coral**, **speech recognition**, **Google Generative AI**, and **MediaPipe**.
