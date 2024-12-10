@@ -40,11 +40,11 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 <!-- Display Stats and Languages Side by Side -->
 <p align="center">
   <a href="https://github.com/raghavsharma7255/github-readme-stats">
-    <img height="230" src="https://github-readme-stats-three-drab-79.vercel.app/api?username=raghavsharma7255&theme=transparent&show_icons=true&rank_icon=github" />
+    <img height="200" src="https://github-readme-stats-three-drab-79.vercel.app/api?username=raghavsharma7255&theme=transparent&show_icons=true&rank_icon=github" />
   </a>
 
   <a href="https://github.com/raghavsharma7255/convoychat">
-    <img height="230" src="https://github-readme-stats-three-drab-79.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" src="https://github-readme-stats-three-drab-79.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
 
