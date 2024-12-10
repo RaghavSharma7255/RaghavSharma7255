@@ -29,14 +29,37 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 - **LinkedIn**: [Raghav Sharma](https://www.linkedin.com/in/raghav-sharma-a339aa248)
 
 ## 🔧 Technical Skills:
-- **Languages**: Java, Python, C, HTML, CSS, JavaScript, Assembly
+- **Languages**: Java, JavaScript, Python, C, C++, HTML, CSS, Assembly
 - **Technologies & Frameworks**: Node.js, SQL, Android Studio, FreeRTOS, **Coral**, **Speech Recognition**, **Google Generative AI**, **MediaPipe**
 - **Tools**: Git, GitHub, Visual Studio, Linux, Virtual Machine (VM), IntelliJ IDEA, NetBeans, **KiCad** (PCB Design)
 - **Databases**: MySQL, **NoSQL**
 - **Embedded Systems**: Raspberry Pi 4, Raspberry Pi Pico 2040, Arduino, FreeRTOS, **KiCad** (for PCB design)
 
-## 🏆 GitHub Achievements
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghavsharma7255)
+  
+## 💻 Programming Languages & Stats
+<!-- Display Stats and Languages Side by Side -->
+<p align="center">
+  <a href="https://github.com/raghavsharma7255/github-readme-stats">
+    <img height="230" src="https://github-readme-stats-three-drab-79.vercel.app/api?username=raghavsharma7255&theme=transparent&show_icons=true&rank_icon=github" />
+  </a>
+
+  <a href="https://github.com/raghavsharma7255/convoychat">
+    <img height="230" src="https://github-readme-stats-three-drab-79.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</p>
+
+## 🔥 Streak
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavsharma7255&theme=transparent" />
+</p>
+
+## 
+<!-- Footer Section (Optional) -->
+<p align="center">
+  <em>Feel free to explore my repositories and reach out to me for collaboration!</em>
+</p>
+
 
 <!---
 RaghavSharma7255/RaghavSharma7255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
