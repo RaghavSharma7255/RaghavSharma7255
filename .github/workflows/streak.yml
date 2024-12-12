@@ -1,0 +1,30 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # This will run daily, at midnight UTC
+  push:
+    branches:
+      - main # The action will run when there's a push to the main branch
+  workflow_dispatch: # This allows you to trigger the action manually
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up GitHub Readme Streak Stats image
+        run: |
+          curl -o streak-stats.svg https://github-readme-streak-stats.herokuapp.com/?user=RaghavSharma7255
+          echo "![GitHub Streak](streak-stats.svg)" >> README.md
+
+      - name: Commit updated README
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git commit -m "Update streak stats"
+          git push
