@@ -38,7 +38,7 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
   
 ## 💻 Programming Languages & Stats
 <!-- Display Stats and Languages Side by Side -->
-<p align="center">
+<p>
   <a href="https://github.com/raghavsharma7255/github-readme-stats">
     <img height="200" src="https://github-readme-stats-three-drab-79.vercel.app/api?username=raghavsharma7255&theme=transparent&show_icons=true&rank_icon=github" />
   </a>
@@ -51,7 +51,7 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 <!-- Streak Stats -->
 ## 🔥  Streak Stats
 
-![GitHub Streak](streak-stats.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghavsharma7255&theme=transparent)
 
 ## 
 <!-- Footer Section (Optional) -->
