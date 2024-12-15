@@ -35,6 +35,26 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 - **Databases**: MySQL, **NoSQL**
 - **Embedded Systems**: Raspberry Pi 4, Raspberry Pi Pico 2040, Arduino, FreeRTOS, **KiCad** (for PCB design)
 
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C32?style=for-the-badge&logo=assembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00A6A6?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-BC2A8D?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-2774BB?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
   
 ## 💻 Programming Languages & Stats
 <!-- Display Stats and Languages Side by Side -->
@@ -58,6 +78,7 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 <p align="center">
   <em>Feel free to explore my repositories and reach out to me for collaboration!</em>
 </p>
+
 
 <!---
 RaghavSharma7255/RaghavSharma7255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
