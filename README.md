@@ -68,11 +68,6 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
   </a>
 </p>
 
-<!-- Streak Stats -->
-## 🔥  Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghavsharma7255&theme=transparent)
-
 ## 
 <!-- Footer Section (Optional) -->
 <p align="center">
