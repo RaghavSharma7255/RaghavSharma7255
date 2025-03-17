@@ -64,7 +64,7 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
   </a>
 
   <a href="https://github.com/raghavsharma7255/convoychat">
-    <img height="200" src="https://github-readme-stats-three-drab-79.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" src="https://github-readme-stats-n49pa811w-raghav-sharmas-projects-7bd340c1.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
 
