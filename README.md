@@ -69,10 +69,19 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 </p>
 --->
 
-<!-- Footer Section (Optional) -->
+<!-- Footer Section -->
 <p align="center">
-  <em>Feel free to explore my repositories and reach out to me for collaboration!</em>
+  <strong>🚀 Let's Build Something Amazing Together!</strong><br>
+  <em>Feel free to explore my repositories and reach out for collaboration.</em>  
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raghavsharma7255&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/raghavsharma7255?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/raghavsharma7255?style=social" alt="GitHub Stars" />
+</p>
+
+
 
 
 <!---
