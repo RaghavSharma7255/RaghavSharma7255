@@ -26,7 +26,6 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 
 ## 📫 How to reach me:
 - **Email**: [raghav3541sharma@gmail.com](mailto:raghav3541sharma@gmail.com)
-- **LinkedIn**: [Raghav Sharma](https://www.linkedin.com/in/raghav-sharma-a339aa248)
 
 ## 🔧 Technical Skills:
 - **Languages**: Java, JavaScript, Python, C, C++, HTML, CSS, Assembly
