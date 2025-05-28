@@ -25,7 +25,7 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 - **UI/UX Design**: Exploring **user interfaces** and enhancing **user experiences**.
 
 ## 📫 How to reach me:
-- **Email**: [raghav1453sharma@gmail.com](mailto:raghav1453sharma@gmail.com)
+- **Email**: [raghav3541sharma@gmail.com](mailto:raghav3541sharma@gmail.com)
 - **LinkedIn**: [Raghav Sharma](https://www.linkedin.com/in/raghav-sharma-a339aa248)
 
 ## 🔧 Technical Skills:
