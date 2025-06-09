@@ -59,20 +59,33 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 <!-- Display Stats and Languages Side by Side -->
 <p>
   <a href="https://github.com/raghavsharma7255/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=raghavsharma7255&theme=transparent&show_icons=true&rank_icon=github" />
+    <img height="200" src="https://stat-ashy.vercel.app/api?username=raghavsharma7255&theme=transparent&show_icons=true&rank_icon=github" />
   </a>
-<!---
+
+  <a href="https://github.com/raghavsharma7255/convoychat">
+    <img height="200" src="https://stat-ashy.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=450" />
+  </a>
+
+</p>
+
+<!-- Streak Stats -->
+## 🔥  Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghavsharma7255&theme=transparent)
+
+<!--
   <a href="https://github.com/raghavsharma7255/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
 --->
-
+##
 <!-- Footer Section -->
 <p align="center">
   <strong>🚀 Let's Build Something Amazing Together!</strong><br>
   <em>Feel free to explore my repositories and reach out for collaboration.</em>  
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghavsharma7255&color=blue&style=flat-square" alt="Profile Views" />
