@@ -10,10 +10,8 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 - **Project Management**: I have worked on managing and executing projects during my learning journey.
 
 ## 🌱 Currently Learning:
-- **Advanced Java**: Improving my understanding of **object-oriented programming** and frameworks.
-- **React & Node.js**: Expanding my knowledge of **full-stack web development**.
 - **Kotlin**: Learning **Kotlin** for Android development.
-- **Cybersecurity**: Exploring key concepts and techniques to protect systems and networks from cyber threats.
+- **Jetpack Compose**: Exploring modern UI development in Android using Jetpack Compose.
 
 ## 💼 Looking for Opportunities in:
 - **Android Development**: Developing mobile applications using **Android Studio** and **Java**.
@@ -23,9 +21,6 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 - **IoT & Embedded Systems**: Working with technologies like **Raspberry Pi** and **Arduino** to create innovative solutions.
 - **Web Development**: Designing and developing **responsive** web applications.
 - **UI/UX Design**: Exploring **user interfaces** and enhancing **user experiences**.
-
-## 📫 How to reach me:
-- **Email**: [raghav3541sharma@gmail.com](mailto:raghav3541sharma@gmail.com)
 
 ## 🔧 Technical Skills:
 - **Languages**: Java, JavaScript, Python, C, C++, HTML, CSS, Assembly
@@ -68,9 +63,6 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
 
 </p>
 
-<!-- Streak Stats -->
-## 🔥  Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghavsharma7255&theme=transparent)
 
 <!--
   <a href="https://github.com/raghavsharma7255/convoychat">
