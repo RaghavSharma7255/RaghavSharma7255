@@ -3,10 +3,11 @@
 Welcome to my GitHub! I’m a **Computer Engineering graduate passionate about Android development**. I focus on building **mobile applications**, learning modern Android technologies, and creating apps that solve real-world problems. While I explore hardware and emerging tech, my primary focus is **Android development**.
 
 ## 👨‍💻 Android & Mobile Development Expertise
-- **Android Development**: Kotlin, Java, Android Studio, Jetpack Compose, MVVM architecture
-- **Backend & APIs**: Firebase (Auth, Firestore, Push notifications), REST APIs with Retrofit
-- **App Features**: Offline storage with Room DB, real-time updates, responsive UIs
-- **Portfolio & GitHub**: Publishing apps on the Play Store, showcasing clean code and complete projects
+- **Android Development:** Proficient in Kotlin and Java, with hands-on experience in Android Studio, Jetpack Compose, and implementing MVVM architecture for scalable, maintainable apps.
+- **Backend & API Integration:** Integrated a variety of REST APIs, including weather, currency exchange, and other third-party services; proficient with Firebase (Auth, Firestore, Push Notifications) for backend and real-time functionality.
+- **Payment Solutions:** Implemented secure in-app payment processing using Stripe and other payment gateways.
+- **App Features & Functionality:** Designed apps with offline storage (Room DB), real-time updates, responsive and intuitive UI/UX, notifications, and location-based services.
+- **Portfolio & GitHub:** Published apps on the Play Store, showcasing clean, production-ready code and practical implementations of APIs and payment systems.
 
 ## 🌱 Currently Learning
 - **Kotlin**: Modern Android development language
@@ -51,11 +52,11 @@ Welcome to my GitHub! I’m a **Computer Engineering graduate passionate about A
 <!-- Display Stats and Languages Side by Side -->
 <p>
   <a href="https://github.com/raghavsharma7255/github-readme-stats">
-    <img height="200" src="https://stat-ashy.vercel.app/api?username=raghavsharma7255&theme=transparent&show_icons=true&rank_icon=github" />
+    <img height="160" src="https://stat-ashy.vercel.app/api?username=raghavsharma7255&theme=transparent&show_icons=true&rank_icon=github" />
   </a>
 
   <a href="https://github.com/raghavsharma7255/convoychat">
-    <img height="200" src="https://stat-ashy.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=450"/>
+    <img height="160" src="https://stat-ashy.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=450"/>
   </a>
 </p>
 <!-- Footer Section -->
