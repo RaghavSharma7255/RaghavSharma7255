@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Raghav Sharma** ([@RaghavSharma7255](https://github.com/RaghavSharma7255))
 
-Welcome to my GitHub! I’m a **Computer Engineering graduate passionate about Android development**. I focus on building **mobile applications**, learning modern Android technologies, and creating apps that solve real-world problems. While I explore hardware and emerging tech, my primary focus is **Android development**.
+Welcome to my GitHub! I’m a **Computer Engineering Technology graduate passionate about Android development**. I focus on building **mobile applications**, learning modern Android technologies, and creating apps that solve real-world problems. While I explore hardware and emerging tech, my primary focus is **Android development**.
 
 ## 👨‍💻 Android & Mobile Development Expertise
 - **Android Development:** Proficient in Kotlin and Java, with hands-on experience in Android Studio, Jetpack Compose, and implementing MVVM architecture for scalable, maintainable apps.
