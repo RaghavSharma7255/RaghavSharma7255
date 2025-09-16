@@ -40,7 +40,6 @@ Welcome to my GitHub! I’m a **Computer Engineering Technology graduate passion
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/FreeRTOS-00A6A6?style=for-the-badge&logo=freertos&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-BC2A8D?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-2774BB?style=for-the-badge&logo=raspberrypi&logoColor=white" />
