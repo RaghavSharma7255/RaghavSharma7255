@@ -1,45 +1,42 @@
 # 👋 Hi, I’m **Raghav Sharma** ([@RaghavSharma7255](https://github.com/RaghavSharma7255))
 
-Welcome to my GitHub! I’m a Computer Engineering student with a strong foundation in technology. While I’m early in my career, I have gained valuable experience through hands-on projects where I’ve applied a range of technologies. I’m passionate about coding, hardware, and continuously learning to improve my skills and stay up to date with emerging technologies.
-## 👨‍💻 Areas of Expertise:
-- **Software Development**: I have worked with **Java**, **Python**, **C** to develop various applications.
-- **Web Development**: I have experience with **HTML**, **CSS**, and **JavaScript** frameworks.
-- **Embedded Systems & IoT**: I have worked with **Raspberry Pi 4**, **Raspberry Pi Pico 2040**, **Arduino**, and **KiCad** for **PCB design** and **hardware integration**.
-- **Machine Learning & AI**: Created a project using **Raspberry Pi** with **Coral**, **speech recognition**, **Google Generative AI**, and **MediaPipe**.
-- **Android Development**: I have worked on mobile app development using **Android Studio** and **Java**.
-- **Project Management**: I have worked on managing and executing projects during my learning journey.
+Welcome to my GitHub! I’m a **Computer Engineering graduate passionate about Android development**. I focus on building **mobile applications**, learning modern Android technologies, and creating apps that solve real-world problems. While I explore hardware and emerging tech, my primary focus is **Android development**.
 
-## 🌱 Currently Learning:
-- **Kotlin**: Learning **Kotlin** for Android development.
-- **Jetpack Compose**: Exploring modern UI development in Android using Jetpack Compose.
+## 👨‍💻 Android & Mobile Development Expertise
+- **Android Development**: Kotlin, Java, Android Studio, Jetpack Compose, MVVM architecture
+- **Backend & APIs**: Firebase (Auth, Firestore, Push notifications), REST APIs with Retrofit
+- **App Features**: Offline storage with Room DB, real-time updates, responsive UIs
+- **Portfolio & GitHub**: Publishing apps on the Play Store, showcasing clean code and complete projects
 
-## 💼 Looking for Opportunities in:
-- **Android Development**: Developing mobile applications using **Android Studio** and **Java**.
-- **Project Management**: Managing projects and contributing to their full lifecycle.
-- **Software Development**: Building **high-performance applications** and solving complex problems.
-- **Systems Programming**: Working with **Linux systems** and optimizing **low-level code**.
-- **IoT & Embedded Systems**: Working with technologies like **Raspberry Pi** and **Arduino** to create innovative solutions.
-- **Web Development**: Designing and developing **responsive** web applications.
-- **UI/UX Design**: Exploring **user interfaces** and enhancing **user experiences**.
+## 🌱 Currently Learning
+- **Kotlin**: Modern Android development language
+- **Jetpack Compose**: UI toolkit for building intuitive and responsive Android apps
+- **Advanced Android Architecture**: MVVM, Coroutines, Hilt
 
-## 🔧 Technical Skills:
-- **Languages**: Java, JavaScript, Python, C, C++, HTML, CSS, Assembly
-- **Technologies & Frameworks**: Node.js, SQL, Android Studio, FreeRTOS, **Coral**, **Speech Recognition**, **Google Generative AI**, **MediaPipe**
-- **Tools**: Git, GitHub, Visual Studio, Linux, Virtual Machine (VM), IntelliJ IDEA, NetBeans, **KiCad** (PCB Design)
-- **Databases**: MySQL, **NoSQL**
-- **Embedded Systems**: Raspberry Pi 4, Raspberry Pi Pico 2040, Arduino, FreeRTOS, **KiCad** (for PCB design)
+## 💼 Looking for Opportunities
+- **Junior Android Developer / Mobile App Developer**
+- **Software Development**: Building Android apps, solving complex problems, integrating APIs
+- **Hands-on Mobile Projects**: Launching real-world apps on the Play Store
 
+## 🔧 Technical Skills
+- **Languages**: Kotlin, Java, Python, C, C++, HTML, CSS, JavaScript
+- **Frameworks & Tools**: Android Studio, Jetpack Compose, Firebase, Retrofit, Git, GitHub
+- **Embedded & IoT (supporting skills)**: Raspberry Pi 4, Raspberry Pi Pico, Arduino, KiCad
+- **Web / Other**: Node.js, HTML, CSS, JS (supporting skills)
+<br>
 <p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room%20DB-0DB14B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C32?style=for-the-badge&logo=assembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" />
   <img src="https://img.shields.io/badge/FreeRTOS-00A6A6?style=for-the-badge&logo=freertos&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -58,19 +55,9 @@ Welcome to my GitHub! I’m a Computer Engineering student with a strong foundat
   </a>
 
   <a href="https://github.com/raghavsharma7255/convoychat">
-    <img height="200" src="https://stat-ashy.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=450" />
-  </a>
-
-</p>
-
-
-<!--
-  <a href="https://github.com/raghavsharma7255/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+    <img height="200" src="https://stat-ashy.vercel.app/api/top-langs?username=raghavsharma7255&theme=transparent&layout=compact&langs_count=8&card_width=450"/>
   </a>
 </p>
---->
-##
 <!-- Footer Section -->
 <p align="center">
   <strong>🚀 Let's Build Something Amazing Together!</strong><br>
